@@ -1,8 +1,8 @@
 {
-	"ip": "YOUR_SERVER_IP",
-	"port": "YOUR_SERVER_PORT",
-	"version": "YOUR_SERVER_VERSION",
-	"username": "NoNameBot",
+	"ip": "in1.msdhosting.tech",
+	"port": "25628",
+	"version": "1.12.2",
+	"username": "Opklo",
 	"autonightskip": false,
 	"pi": 3.14159,
 	"moveinterval": 2,
